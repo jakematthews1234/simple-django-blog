@@ -24,7 +24,7 @@ configobj==4.7.2
 configparser==3.8.1
 cookiecutter==1.6.0
 dateparser==0.7.1
-Django==1.11
+Django==1.11.19
 docker==4.0.2
 docutils==0.15.2
 ec2-hibinit-agent==1.0.0
